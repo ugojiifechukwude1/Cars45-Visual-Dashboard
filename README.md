@@ -54,3 +54,12 @@ The analysis was guided by the following questions:
 6. Insight Generation
    * Interpreted patterns and trends from the dashboard.
    * Connected findings to pricing and operational decisions
+  
+## Dashboard
+![Cars45 Dashboard Project](https://github.com/user-attachments/assets/2d0f0d58-649e-41ac-b7ed-212471a82895)
+
+## Key Insights (Summary)
+* Certain brands consistently drive higher transaction volumes.
+* Pricing varies significantly across brands, indicating opportunities for optimization.
+* A small group of brands contributes a disproportionate share of total revenue.
+* Price range analysis highlights segments with stronger customer demand
